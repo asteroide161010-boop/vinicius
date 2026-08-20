@@ -1,0 +1,2 @@
+Atividade PW I - Estrutura baseada no sistema de grid de 12 colunas.
+Abra o arquivo index.html no navegador para visualizar o projeto.
